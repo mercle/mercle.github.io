@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kubernetes migrations"
-date:   2025-04-15 22:04:46 +0300
+date:   2025-04-24 19:21:46 +0100
 categories: k8s
 ---
 If you're involved in software development or DevOps, you've likely heard about Kubernetes. Kubernetes, also known as K8s, is an open-source platform that automates container orchestration. It provides a range of benefits for businesses, including increased agility, scalability, and reliability. Kubernetes allows businesses to deploy and manage containerized applications with ease, providing a strong foundation for microservices and cloud-native architectures.
